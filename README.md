@@ -16,6 +16,7 @@ Open daarna <http://localhost:8080>.
 
 - `index.html` - semantische pagina, SEO-metadata en alle secties
 - `styles.css` - responsive vormgeving en dashboardvisualisatie
+- `website-extension.css` - publieke-site-uitbreidingen, waaronder de productpreview en Over ons-sectie
 - `script.js` - mobiele navigatie en lokaal demoformulier zonder backend
 - `favicon.svg` - lokaal favicon
 
