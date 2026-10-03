@@ -18,6 +18,8 @@ Open daarna <http://localhost:8080>.
 - `styles.css` - responsive vormgeving en dashboardvisualisatie
 - `website-extension.css` - publieke-site-uitbreidingen, waaronder de productpreview en Over ons-sectie
 - `script.js` - mobiele navigatie en lokaal demoformulier zonder backend
+
+De privacyverklaring is beschikbaar via [`privacy.html`](privacy.html).
 - `favicon.svg` - lokaal favicon
 
 ## GitHub Pages
